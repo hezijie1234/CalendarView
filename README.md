@@ -15,7 +15,7 @@
 #### [demo体验](https://fir.im/vehj?release_id=5a3c76cc959d695b3800035b)
 
 ### 效果图：
-|![](screenshot/1.gif)|![](screenshot/2.gif)|![](screenshot/3.gif)|
+|![](screenshot/me.jpg)|![](screenshot/me2.jpg)|![](screenshot/3.gif)|
 |---|---|---|
 
 ### 基本用法：
